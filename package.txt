@@ -1,2 +1,2 @@
-paulscode.android.mupen64plusae
-paulscode.android.mupen64plusae
+com.aspieapps.free.emulator
+com.aspieapps.free.emulator
