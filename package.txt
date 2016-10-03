@@ -1,2 +1,10 @@
-com.aspieapps.free.emulator
-com.aspieapps.free.emulator
+com.mobdro.android
+com.nitroxenon.terrarium
+com.newest.authenf.adstwo.twoth.vertwo
+com.tdo.showbox
+com.livetv.android.apps.uktvnow
+com.dndgroups.moviehd.ui
+com.dndevteam.megahd
+com.netflix.mediaclient
+com.google.android.youtube
+com.facebook.katana
