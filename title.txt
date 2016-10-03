@@ -8,3 +8,7 @@ MegaBoxHD
 Netflix
 YouTube
 Facebook
+BBC iPlayer
+ITV
+All 4
+My 5
