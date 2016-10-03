@@ -1,6 +1,6 @@
 Mobdro
 Terranium TV
-NewestMoviewHD
+NewestMovieHD
 ShowBox
 UKTVNow
 MovieHD
@@ -9,6 +9,6 @@ Netflix
 YouTube
 Facebook
 BBC iPlayer
-ITV
+ITV Hub
 All 4
 My 5
