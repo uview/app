@@ -1,2 +1,10 @@
-test app
-test app 2
+Mobdro
+Terranium TV
+NewestMoviewHD
+ShowBox
+UKTVNow
+MovieHD
+MegaBoxHD
+Netflix
+YouTube
+Facebook
