@@ -12,3 +12,4 @@ BBC iPlayer
 ITV Hub
 All 4
 My 5
+MX Player
