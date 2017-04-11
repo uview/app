@@ -13,3 +13,5 @@ air.ITVMobilePlayer
 com.channel4.ondemand
 com.mobileiq.demand5
 com.mxtech.videoplayer.ad
+de.mobileconcepts.cyberghost
+com.ixolit.ipvanish
