@@ -2,7 +2,7 @@ com.mobdro.android
 com.nitroxenon.terrarium
 com.cloud.authent.newest.thfour
 com.tdo.showbox
-com.livetv.android.apps.uktvnow
+com.livetv.android.apps.uktvnow.firestick
 com.dndgroups.moviehd.ui
 com.dndevteam.megahd
 com.netflix.mediaclient
