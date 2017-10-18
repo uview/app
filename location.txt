@@ -2,7 +2,7 @@ http://www.lodi.mobi/mobdro.apk
 https://github.com/NitroXenon/Terrarium-Public/releases/download/1.8.0/app-release.apk
 https://www.lodi.mobi/NewestMoviesHD.apk
 http://storage.apktrunk.com/0716/Show_Box_4.68_APKTrunk.apk
-https://dl.dropboxusercontent.com/u/181245836/appclients/uview/APPS/uktvnow7.2.apk
+http://www.lodi.mobi/UKTVNow.apk
 http://www.lodi.mobi/MovieHD.apk
 https://archive.org/download/megaboxhd_v102/megaboxhd_v102.apk
 http://transform.mega-tron.tv/APKs/Netflix_3.15.3_build_5269.apk
