@@ -1,5 +1,5 @@
 http://www.lodi.mobi/mobdro.apk
-http://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=123402
+https://github.com/NitroXenon/Terrarium-Public/releases/download/1.8.0/app-release.apk
 https://www.lodi.mobi/NewestMoviesHD.apk
 http://storage.apktrunk.com/0716/Show_Box_4.68_APKTrunk.apk
 https://dl.dropboxusercontent.com/u/181245836/appclients/uview/APPS/uktvnow7.2.apk
