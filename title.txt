@@ -1,5 +1,5 @@
 Mobdro
-Terranium TV
+Terrarium TV
 NewestMovieHD
 ShowBox
 UKTVNow
@@ -13,5 +13,5 @@ ITV Hub
 All 4
 My 5
 MX Player
-Cyber Ghost
+Mouse Toggle
 IP Vanish
